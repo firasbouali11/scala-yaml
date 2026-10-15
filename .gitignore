@@ -38,6 +38,7 @@ target/
 # test files
 *.tml
 *.yaml
+!integration-tests/yaml-test-suite/**
 tests/repositories/
 
 #general
